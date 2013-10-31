@@ -63,3 +63,7 @@ To copy & cut in VIM like in the others applications (firefox, chrome, libreoffi
 	Ctrl + inser   = copy
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/touv/vim-arrow/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
